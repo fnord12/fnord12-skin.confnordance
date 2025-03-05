@@ -1,4 +1,4 @@
-Kodi's original defaul skin Confluence with a few tweaks.   
+Kodi's original default skin Confluence with a few tweaks.   
 
 The big thing is that it works with my magicseach & editor addon.   
 
